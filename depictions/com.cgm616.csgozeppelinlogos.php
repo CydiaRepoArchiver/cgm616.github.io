@@ -4,10 +4,10 @@
     "If you'd like to design me a logo, please do so!",
     "All logos are copyright Valve and it’s subsidiaries.  All I/Madhav did was resize them.");
     
-    $changelog=array("0.0.1-1", " - Testing depictions.",
-                     "0.0.2-1", " - More depictions stuff.",
+    $changelog=array("0.0.4-1", " - Fixed package install errors.",
                      "0.0.3-1", " - Trying to fix package install errors.",
-                     "0.0.4-1", " - Fixed package install errors.");
+                     "0.0.2-1", " - More depictions stuff.",
+                     "0.0.1-1", " - Testing depictions.");
     
     $devText="Developer's Twitter";
     $devLink="https://twitter.com/cgm616";
