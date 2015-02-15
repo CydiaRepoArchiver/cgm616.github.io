@@ -1,4 +1,4 @@
 <ul>
-    <li>
-        <a class=\"devLink\" target=\"_blank\" href="https://twitter.com/cgm616”>@cgm616 on Twitter</a></li>
-    <li>
+<li>
+<a class=\"devLink\" target=\"_blank\" href="https://github.com/cgm616/cgm616.github.io">cgm616's repo on Github</a></li>
+<li>
