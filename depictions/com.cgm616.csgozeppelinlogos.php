@@ -4,11 +4,12 @@
     "If you'd like to design me a logo, please do so!",
     "All logos are copyright Valve and it’s subsidiaries.  All I/Madhav did was resize them.");
     
-    $changelog=array("0.0.4-1", " - Fixed package install errors.",
+    $changelog=array("1.0.1-1", " - Initial release with actual files.",
+                     "0.0.4-1", " - Fixed package install errors.",
                      "0.0.3-1", " - Trying to fix package install errors.",
                      "0.0.2-1", " - More depictions stuff.",
                      "0.0.1-1", " - Testing depictions.");
     
-    $devText="Developer's Twitter";
-    $devLink="https://twitter.com/cgm616";
+    $devText="Package Contents on Github";
+    $devLink="http://github.com/cgm616/csgozeppelinlogos";
 ?>
