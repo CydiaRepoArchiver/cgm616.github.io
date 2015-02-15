@@ -2,7 +2,7 @@ Package: com.cgm616.csgozeppelinlogos
 Version: 0.0.2-1
 Architecture: iphoneos-arm
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
-Filename: debs//csgozeppelinlogos.deb
+Filename: debs//com.cgm616.csgozeppelinlogos.deb
 Size: 774
 MD5sum: b836de8d2d55ccd00eb964dbe3a74db1
 SHA1: 6d0e36dc61abf6b357b7db76bafe687c215f31ae
