@@ -4,7 +4,8 @@
     "If you'd like to design me an icon, please do so!",
     "All logos are copyright Valve and it’s subsidiaries.  All I did was resize them.");
     
-    $changelog=array("0.0.1-1", " - Testing depictions.");
+    $changelog=array("0.0.1-1", " - Testing depictions.",
+    "0.0.2-1", " - More depictions stuff.");
     
     $devText="Developer's Twitter";
     $devLink="https://twitter.com/JamesIscNeutron";
