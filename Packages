@@ -1,12 +1,12 @@
 Package: com.cgm616.csgozeppelinlogos
-Version: 1.0.2-1
+Version: 1.1.1-1
 Architecture: iphoneos-arm
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Filename: debs//com.cgm616.csgozeppelinlogos.deb
 Size: 28868
-MD5sum: aa26a83a12106ee86502f0f4313dba43
-SHA1: 48666cf46bdaf7c59d2cd07f6e3cf38101c5ef06
-SHA256: b82d2aa090f3b3ab4e63e09d1421080c900c0eba0c1535e114484b0e2ccb7e64
+MD5sum: f16d1b379165cfbe120d39ae37b3365e
+SHA1: 5366f2efd07a1f02e105b29f7917a2aaf9b6b7fa
+SHA256: dbf8c0df14fb48f4c39fb067b3e82e03f1dd4b598208e65c68b78955828c948b
 Section: Addons (Zeppelin)
 Description: CSGO-related logos for Zeppelin!
 Author: madhav908 <madhav908+cydia@gmail.com>
