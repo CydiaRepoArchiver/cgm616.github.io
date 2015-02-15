@@ -1,8 +1,8 @@
-Origin: freezingrepo
-Label: arcticsn0w
+Origin: cgm616's repo
+Label: cgm616
 Suite: stable
 Version: 1.0
-Codename: freezingrepo
+Codename: cgm616repo
 Architectures: iphoneos-arm
 Components: main
-Description: arcticsn0w's repo with betas and stuff that got taken down (like nds4ios and stuff)
+Description: cgm616's repo with nothing really quite cool
