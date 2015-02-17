@@ -13,20 +13,3 @@ Author: madhav908 <madhav908+cydia@gmail.com>
 Depiction: http://repo.graber-mitchell.com/depictions/?dep=com.cgm616.csgozeppelinlogos
 Name: CSGO Zeppelin Logos
 
-Package: com.cgm616.notifyonrespring
-Version: 0.1.1-1-1
-Architecture: iphoneos-arm
-Maintainer: cgm616 <cgm616+cydia@gmail.com>
-Installed-Size: 5
-Depends: mobilesubstrate
-Filename: debs/com.cgm616.notifyonrespring.deb
-Size: 14376
-MD5sum: 1cfdc546ef8770c5177d9efb7fdd9277
-SHA1: a6e7a4d17833ffad1634f64eeb96354531c9889c
-SHA256: 5c3b2b8f05fc4ec145150d88a3e15fe675252481938b245f14360b6948b9b5de
-Section: Beta
-Description: Notifies you when a respring is finished.
-Author: cgm616 <cgm616+cydia@gmail.com>
-Depiction: http://repo.graber-mitchell.com/depictions/?dep=com.cgm616.notifyonrespring
-Name: NotifyOnRespring
-
