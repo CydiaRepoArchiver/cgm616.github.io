@@ -4,7 +4,8 @@
                        "Gives a notification on successful respring of the device.",
                        "More for me learning tweaks than actually making a useful tweak, but it works, so...");
     
-    $changelog=array("0.1.0-1", " - Initial beta release.");
+    $changelog=array("0.1.0-1", " - Attempted to fix bug of alert not appearing."
+    				 "0.1.0-1", " - Initial beta release.");
     
     $devText="Package Contents on Github";
     $devLink="https://github.com/cgm616/notifyonrespring";
