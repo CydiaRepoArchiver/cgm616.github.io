@@ -1,8 +1,17 @@
-Origin: cgm616's repo
-Label: cgm616
+Origin: cgm616’s repository
+Label: cgm616’s repo
 Suite: stable
-Version: 1.0
+Version: 0.1
 Codename: cgm616repo
 Architectures: iphoneos-arm
 Components: main
-Description: cgm616's repo with nothing really quite cool
+Description: A tube-filled repo with nothing quite finished yet.
+MD5SUM:
+ 95d25458c91c48a026d27415b492bd8b 582 Packages
+ e266f626f8316d008124e16f01af0043 432 Packages.bz2
+SHA1:
+ 07a9e97223891a0bb4e7a6410019ba0f09c4a204 582 Packages
+ b981e663b07dfa60aa7dded5eda104928b629c90 432 Packages.bz2
+SHA256:
+ d51f9ca648a87b9d7fbbe8dc69bbebf163a8de398d0c49c45f7ab116449171af 582 Packages
+ 8d81051474a421cd72fe701e4972ce968184bfeb450af0e1733de442631df6e4 432 Packages.bz2

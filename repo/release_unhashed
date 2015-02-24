@@ -1,0 +1,8 @@
+Origin: cgm616’s repository
+Label: cgm616’s repo
+Suite: stable
+Version: 0.1
+Codename: cgm616repo
+Architectures: iphoneos-arm
+Components: main
+Description: A tube-filled repo with nothing quite finished yet.
