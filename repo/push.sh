@@ -11,13 +11,13 @@ size2=`wc -c Packages.bz2 | sed 's/[[:space:]].*//'`
 cp release_unhashed Release
 
 echo MD5SUM: >> Release
-echo " `md5sum Packages | sed "s/  / $size /"`" >> Release
-echo " `md5sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
+echo " `gmd5sum Packages | sed "s/  / $size /"`" >> Release
+echo " `gmd5sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
 
 echo SHA1: >> Release
-echo " `sha1sum Packages | sed "s/  / $size /"`" >> Release
-echo " `sha1sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
+echo " `gsha1sum Packages | sed "s/  / $size /"`" >> Release
+echo " `gsha1sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
 
 echo SHA256: >> Release
-echo " `sha256sum Packages | sed "s/  / $size /"`" >> Release
-echo " `sha256sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
+echo " `gsha256sum Packages | sed "s/  / $size /"`" >> Release
+echo " `gsha256sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
