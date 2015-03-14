@@ -14,5 +14,5 @@
                      "0.0.1-1", " - Testing depictions.");
 
     $devText="Package Contents on Github";
-    $devLink="https://github.com/cgm616/csgozeppelinlogos";
+    $devLink="https://github.com/cgm616/notifyonrespring";
 ?>
