@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## My Cydia repo
@@ -8,4 +8,4 @@ As no one knows, I have a Cydia repo at [cgm616.github.io/repo](https://cgm616.g
 
 Just check back eventually.
 
-
+For those of you who don't know what Cydia is and why I'm talking about it, head [here](https://theiphonewiki.com/wiki/Cydia.app "iphonewiki cydia page").  It's a pretty cool thing to install on iOS devices.
