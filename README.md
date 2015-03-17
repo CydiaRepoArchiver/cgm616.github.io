@@ -1,6 +1,13 @@
+##  cgm616.github.io
 This is the github repo for my jekyll blog and my cydia repo.
-
 And anything else that may happen to be here. 
 
-The file LICENSE-JEKYLL-NOW is the license for any code from https://github.com/barryclark/jekyll-now.
+### Repo
+The cydia repo can be added with [cgm616.github.io/repo](http://cgm616.github.io/repo "add this in cydia").  In the repo, the code is browsable in the repo/ folder.
+
+### Blog
+The blog can be viewed at [cgm616.github.io](https://cgm616.github.io "blog"). It may or not be updated regularly.
+
+### License for code / jekyll-now
+The file LICENSE-JEKYLL-NOW is the license for any code from [github.com/barryclark/jekyll-now](https://github.com/barryclark/jekyll-now "jekyll-now").
 The file LICENSE is the license for any of my work included in the repo, unless where stated otherwise.
