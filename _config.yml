@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: cgm616
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Jailbreaker, programmer, soccer-lover, gamer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/cgm616/cgm616.github.io/master/repo/CydiaIcon.png
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: channel/cgm616 # channel/<your_long_string> or user/<user-name>
+  youtube: user/cgm616 # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
