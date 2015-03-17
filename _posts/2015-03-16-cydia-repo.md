@@ -1,4 +1,6 @@
 ---
+layout: post
+title: "Cydia Repo"
 published: true
 ---
 
