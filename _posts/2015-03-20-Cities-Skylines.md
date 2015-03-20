@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My thoughts about Cities: Skylines"
-published: false
+published: true
 banner: /images/CitiesSkylines.jpg
 ---
 
