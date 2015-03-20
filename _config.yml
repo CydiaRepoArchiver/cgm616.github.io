@@ -73,3 +73,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - LICENSE-JEKYLL-NOW
