@@ -3,8 +3,9 @@ layout: default
 ---
 
 <article class="post">
-  <div class="image featured"><img src="{{page.banner | prepend: site.baseurl}}" alt="" /></div>
 
+{% if page.banner %}<div class="image featured"><img src="{{page.banner | prepend: site.baseurl}}" alt="" /></div>{% endif %}
+  
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
