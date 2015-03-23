@@ -12,13 +12,15 @@ layout: default
     {{ content }}
   </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+  <div class ="footer">
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
-  <div class="tags">
-    Tags
-    {% for tag in page.tags %} <div class='tag'><a href='tag/#{{tag}}'>{{tag}}</a></div> {% endfor %}
+    <div class="tags">
+      Tags
+      {% for tag in page.tags %} <div class='tag'><a href='tag/#{{tag}}'>{{tag}}</a></div> {% endfor %}
+    </div>
   </div>
 
   {% include disqus.html %}
