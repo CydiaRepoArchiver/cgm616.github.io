@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developing with Theos
+title: "Developing with Theos"
 published: true
 ---
 

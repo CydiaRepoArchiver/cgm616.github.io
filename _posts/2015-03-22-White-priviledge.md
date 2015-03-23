@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White Privilege: Unpacking the Invisible Knapsack
+title: "White Privilege: Unpacking the Invisible Knapsack"
 published: true
 ---
 
