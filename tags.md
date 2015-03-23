@@ -21,17 +21,18 @@ Here is a collection all of the tags used on the site:
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   {{ t | downcase }}
-  <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
-  <ul>
-    {% for post in posts %}
-      {% if post.tags contains t %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-          <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+
+<h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
+<ul>
+  {% for post in posts %}
+    {% if post.tags contains t %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
 
 ---
 
