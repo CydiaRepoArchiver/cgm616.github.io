@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: tags
 title: Tags
 permalink: /tags/
 published: true

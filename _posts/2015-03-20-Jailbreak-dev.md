@@ -2,6 +2,7 @@
 layout: post
 title: "Developing with Theos"
 published: true
+tags: cydia jailbroken
 ---
 
 Developing for jailbroken devices is surprisingly easy, because of a great tool named Theos.  All it is is a collection of makefiles to help compile tweaks and put everything in the rght place, but it's really powerful.
