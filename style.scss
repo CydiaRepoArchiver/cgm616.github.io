@@ -292,7 +292,12 @@ footer {
   text-align: center;
 }
 
+// --------------
 // Added stuff by me
+// --------------
+.post-date { display: block; margin-top: -.5rem; margin-bottom: 1rem;  }
+.date { padding-left:1rem; font-size:.8rem;}
+
 .page ul { list-style-type: none; margin:0; padding:0; }
 .page ul li { margin-bottom:.7rem; margin-top:.7rem; }
 
