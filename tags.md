@@ -32,4 +32,7 @@ Here is a collection all of the tags used on the site:
       {% endif %}
     {% endfor %}
   </ul>
+
+---
+
 {% endfor %}
