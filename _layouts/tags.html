@@ -9,7 +9,7 @@ layout: default
   <div class="entry">
     {{ content }}
     {% for item in site.tags %}
-      {{item}}
+      {{item[0]}}
 
     {% endfor %}
   </div>
