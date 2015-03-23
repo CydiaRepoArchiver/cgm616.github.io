@@ -16,11 +16,9 @@ Here is a collection all of the tags used on the site:
 
 ---
 
-
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
-  {{ t | downcase }}
 
 <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
 <ul>
