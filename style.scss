@@ -34,36 +34,6 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  // font-family: $helveticaNeue;
-  color: $darkerGray;
-  // font-weight: bold;
-  font-weight: 300;
-
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
-
-  @include mobile {
-    line-height: 1.4;
-  }
-}
-
-h1 {
-  font-size: 30px;
-  a {
-    color: inherit;
-  }
-}
-
-h2 {
-  font-size: 24px;
-}
-
-h3 {
-  font-size: 20px;
-}
-
 p {
   margin: 15px 0;
   font-weight: 100;
@@ -77,6 +47,36 @@ a {
   &:hover, &:active {
     color: $blue;
   }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  // font-family: $helveticaNeue;
+  color: $darkerGray;
+  // font-weight: bold;
+  font-weight: 300;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
+  a {
+    color: inherit;
+  }
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
 }
 
 h4 {
