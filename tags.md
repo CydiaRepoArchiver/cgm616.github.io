@@ -10,7 +10,7 @@ Here is a collection all of the tags used on the site:
 <ul class="tags">
 {% for tag in site.tags %}
   {% assign t = tag | first %}
-  <li><a href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
+  <li><a href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
 {% endfor %}
 </ul>
 
@@ -21,7 +21,7 @@ Here is a collection all of the tags used on the site:
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
   {{ t | downcase }}
-  <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
+  <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
   <ul>
     {% for post in posts %}
       {% if post.tags contains t %}
