@@ -23,7 +23,7 @@ Here is a collection all of the tags used on the site:
 <h4><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
 <ul>
   {% for post in posts %}
-    {% if post.tags contains t %}
+    {% if post.tags contains t and post.published == true %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
