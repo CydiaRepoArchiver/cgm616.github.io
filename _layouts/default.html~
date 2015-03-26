@@ -9,9 +9,6 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/reset.css" />
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/skeleton.css"/>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/normalize.css"/>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -19,7 +16,7 @@
   </head>
 
   <body>
-    <div class="masthead-container">
+    <div class="masthead-wrapper">
       <div class="container">
         <header class="masthead">
 
@@ -32,6 +29,7 @@
             <a href="{{ site.baseurl }}/">home</a>
             <a href="{{ site.baseurl }}/about">about</a>
             <a href="{{ site.baseurl }}/tags">tags</a>
+            <a href="{{ site.baseurl }}/blog">blog</a>
           </nav>
         </header>
       </div>

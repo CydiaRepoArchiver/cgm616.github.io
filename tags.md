@@ -1,18 +1,21 @@
 ---
 layout: page
-title: Tags in the blog
+title: Tags in the Blog
 permalink: /tags/
 published: true
 ---
 
 Here is a collection all of the tags used on the site:
 
-<ul class="tags">
+<div class="tags">
+<div class="tagcloud">
+<ul>
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   <li><a href="/tags/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
 {% endfor %}
 </ul>
+</div>
 
 ---
 
@@ -35,3 +38,4 @@ Here is a collection all of the tags used on the site:
 ---
 
 {% endfor %}
+</div>
