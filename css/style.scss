@@ -4,7 +4,10 @@
 // Imports
 @import "reset";
 @import "variables";
+@import "normalize";
+@import "skeleton";
 
+// Selection highlighting
 ::-moz-selection {
   color: $black;
   background: $lightGray;

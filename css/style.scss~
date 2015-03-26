@@ -1,7 +1,13 @@
+---
+---
+
 // Imports
 @import "reset";
 @import "variables";
+// @import "normalize";
+// @import "skeleton";
 
+// Selection highlighting
 ::-moz-selection {
   color: $black;
   background: $lightGray;
@@ -12,10 +18,6 @@
   background: $lightGray;
 }
 
-.masthead {
-  text-align: center;
-  float: none;
-}
 
 // More imports
 @import "highlights";
