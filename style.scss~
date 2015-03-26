@@ -12,7 +12,7 @@
   background: $lightGray;
 }
 
-.site-name {
+.site-info {
   text-align: center;
   float: none;
 }
