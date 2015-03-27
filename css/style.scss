@@ -36,6 +36,7 @@ a {
   background-color: $darkerGray;
   color: $lightGray;
   margin-bottom: 50px;
+  border-bottom: 1px solid $black;
 }
 
 .masthead {
@@ -75,15 +76,20 @@ nav {
 
 // Footer
 .footer-wrapper {
-  // background-color: $darkerGray;
+  background-color: $darkerGray;
   color: $lightGray;
-  margin: 20px 0 20px 0;
+  margin-top: 50px;
+  text-align: center;
+}
+
+footer {
+  padding: 15px 0 10px 0;
+  display: inline-block;
 }
 
 .svg-icon {
-
+  margin: 0 10px 0 10px;
 }
-
 
 // Tags
 .tags {
