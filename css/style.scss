@@ -3,27 +3,31 @@
 
 
 // Imports
+@import url(http://fonts.googleapis.com/css?family=Raleway:700,100,400,200,300); // Font import
 @import "reset";
 @import "variables";
 @import "normalize";
 @import "skeleton";
 
 
-// Selection highlighting
-::-moz-selection {
-  color: $black;
-  background: $lightGray;
-}
-
-::selection {
-  color: $black;
-  background: $lightGray;
-}
-
-
 // General
 body {
   background-color: $lightGray;
+}
+
+a {
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+.date {
+  margin: 0 5px 0 5px;
+}
+
+.center {
+  text-align:center;
 }
 
 
@@ -35,6 +39,8 @@ body {
 }
 
 .masthead {
+  color: $lightGray;
+  font-weight: 100;
   text-align: center;
 
   a {
@@ -47,18 +53,35 @@ body {
   }
 }
 
+.site-name {
+  letter-spacing: .3rem;
+}
+
 .site-description {
-  margin: -20px 0 0 0;
+  margin: -15px 0 5px 0;
   letter-spacing: .5rem;
+  // color: $darkGray;
 }
 
 nav {
-  margin: 5px 0 0 0;
+  margin: 5px 0 10px 0;
   letter-spacing: .5rem;
 
   a {
-    margin: 0 30px 0 30px;
+    margin: 0 4.66666666667% 0 4.66666666667%;
   }
+}
+
+
+// Footer
+.footer-wrapper {
+  // background-color: $darkerGray;
+  color: $lightGray;
+  margin: 20px 0 20px 0;
+}
+
+.svg-icon {
+
 }
 
 
@@ -71,13 +94,28 @@ nav {
 }
 
 .tagcloud {
-  
+
 }
+
 
 // Landing page
 .intro {
-  text-align: center;
-  margin-bottom: 20px;
+
+  h4 {
+    font-weight: 300;
+  }
+}
+
+
+// Selection highlighting
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+
+::selection {
+  color: $black;
+  background: $lightGray;
 }
 
 

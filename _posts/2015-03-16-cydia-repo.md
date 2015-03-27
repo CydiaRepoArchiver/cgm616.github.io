@@ -4,6 +4,7 @@ title: "Cydia Repo"
 published: true
 banner: /images/cydia.png
 tags: cydia
+featured: true
 ---
 
 As no one knows, I have a Cydia repo at [cgm616.github.io/repo](https://cgm616.github.io/repo "repo").  It doesn't have much now, but it will. Maybe. Soon(TM).
