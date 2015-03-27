@@ -2,7 +2,7 @@
 layout: post
 title: "My thoughts about Cities: Skylines"
 published: true
-banner: /images/CitiesSkylines.jpg
+banner: /images/2015/3/CitiesSkylines.jpg
 ---
 
 I recently bought Cities: Skylines by Colossal Order, the new citybuilder game that came out recently.  It has 

@@ -2,7 +2,7 @@
 layout: post
 title: "Cydia Repo"
 published: true
-banner: /images/cydia.png
+banner: /images/2015/3/cydia.png
 tags: cydia
 ---
 
