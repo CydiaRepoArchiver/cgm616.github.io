@@ -11,7 +11,7 @@ So, the iPhone has no terminal emulator that comes with it. In order to get that
 
 The good thing is, I'm a huge fan of jailbreaking. I don't think there is a iOS device I have that isn't jailbroken. So now to figure out a way to get git on my device, and then edit the files needed and make a post. 
 
-Git is available from Cydia, simply named "git". However, to use it, you need a terminal emulator. I used MobileTerminal, from angelXwind's repo. I personally like it the best. After that, I opened up MobileTerminal, made sure I was in my user folder, and ran a <code>git clone<code> to download my blog from the GitHub servers. 
+Git is available from Cydia, simply named "git". However, to use it, you need a terminal emulator. I used MobileTerminal, from angelXwind's repo. I personally like it the best. After that, I opened up MobileTerminal, made sure I was in my user folder, and ran a <code>git clone</code> to download my blog from the GitHub servers. 
 
 Okay, now I have a local copy of my site. I still have to figure out how to edit it. Since I don't know any better, simply text editors and I already owned iFile, I might as well use that. iFile is a file browser for iOS, available on Cydia, that has built in text editors and viewer for tons of other file formats. It does cost money. If you don't want to shell out for it, there are a few alternatives, namely Filza and FileBrowser. I haven't tried those out though. 
 
