@@ -7,7 +7,7 @@ published: true
 
 Here is a collection all of the tags used on the site:
 
-<div class="tags">
+<div class="tags-page">
 <div class="tagcloud">
 <ul>
 {% for tag in site.tags %}

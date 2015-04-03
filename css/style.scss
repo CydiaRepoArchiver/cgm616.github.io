@@ -23,7 +23,9 @@ a {
 }
 
 .date {
-  margin: 0 5px 0 5px;
+  padding: 0 10px 0 10px;
+  font-style: italic;
+  font-size: 1.2rem;
 }
 
 .center {
@@ -92,20 +94,28 @@ footer {
 }
 
 .copyright {
-  margin: 0 0 0 0;
+  margin: 5px 0 0 0;
 }
 
 
 // Tags
-.tags {
+.tags-page {
 
   ul, ol {
     list-style: none;
   }
 }
 
-.tagcloud {
+.tags {
 
+  a {
+    text-decoration: none;
+    color: $darkGray;
+
+    &:hover {
+      color: $blue;
+    }
+  }
 }
 
 
@@ -115,6 +125,30 @@ footer {
   h4 {
     font-weight: 300;
   }
+}
+
+
+// Post formatting
+.img-banner-container {
+  text-align: center;
+}
+
+.img-banner {
+  display: inline-block;
+}
+
+.post {
+
+  .date {
+    padding: 0 0 0 0;
+  }
+}
+
+.post-info {
+  font-style: italic;
+  font-size: 1.2rem;
+  padding: 0 0 0 10px;
+  margin: -20px 0 20px 0;
 }
 
 

@@ -4,23 +4,39 @@ layout: default
 
 <article class="post">
 
-{% if page.banner %}<div class="image featured"><img src="{{page.banner | prepend: site.baseurl}}" alt="" /></div>{% endif %}
+  <!-- {% if page.banner %}
+    <div class="image img-banner-wrapper">
+      <img class="img-banner" src="{{page.banner | prepend: site.baseurl}}" alt="" />
+    </div>
+  {% endif %} -->
 
-  <h1>{{ page.title }}</h1>
+  <h3 class="title">{{ page.title }}</h3>
+
+  <div class="post-info">
+
+    <div class="date">
+      Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
+
+    {% if page.tags %}
+      <div class="tags">
+        This post is tagged with:
+        {% for tag in page.tags %}
+          <div class='tag'>
+            <a href='{{ site.baseurl }}/tags/#{{tag}}'>{{tag}}</a>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+
+  </div>
 
   <div class="entry">
     {{ content }}
   </div>
 
   <div class ="footer">
-    <div class="date">
-      Written on {{ page.date | date: "%B %e, %Y" }}
-    </div>
 
-    <div class="tags">
-      Tags
-      {% for tag in page.tags %} <div class='tag'><a href='tag/#{{tag}}'>{{tag}}</a></div> {% endfor %}
-    </div>
   </div>
 
   {% include disqus.html %}
