@@ -95,17 +95,11 @@ footer {
 
 .copyright {
   margin: 5px 0 0 0;
+  font-size: 1.2rem;
 }
 
 
 // Tags
-.tags-page {
-
-  ul, ol {
-    list-style: none;
-  }
-}
-
 .tags {
 
   a {
@@ -115,6 +109,19 @@ footer {
     &:hover {
       color: $blue;
     }
+  }
+}
+
+.tag {
+  padding: 0 2px 0 2px;
+  background: $white;
+}
+
+.tagcloud {
+  white-space: nowrap;
+
+  .tag {
+    padding: 2px 2px 2px 2px;
   }
 }
 
@@ -147,8 +154,16 @@ footer {
 .post-info {
   font-style: italic;
   font-size: 1.2rem;
-  padding: 0 0 0 10px;
-  margin: -20px 0 20px 0;
+  padding: 0 0 0 2px;
+  margin: -20px 0 15px 0;
+
+  a:hover {
+    color: $blue;
+  }
+
+  hr {
+    margin-bottom: 0;
+  }
 }
 
 
@@ -161,6 +176,19 @@ footer {
 ::selection {
   color: $black;
   background: $lightGray;
+}
+
+
+// Misc
+.post-list {
+  a {
+    color: $darkGray;
+    text-decoration: none;
+
+    &:hover {
+      color: $blue;
+    }
+  }
 }
 
 

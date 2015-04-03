@@ -13,11 +13,16 @@ published: true
       <h5 id="{{ this_year }}-ref">{{this_year}}</h5>
       <ul class="features">
     {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a><span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span></li>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+      </li>
     {% if forloop.last %}
       </ul>
-    {% else %}{% if this_year != next_year %}
-      <h5 id="{{ next_year }}-ref">{{next_year}}</h5>
-    {% endif %}{% endif %}
+    {% else %}
+      {% if this_year != next_year %}
+        <h5 id="{{ next_year }}-ref">{{next_year}}</h5>
+      {% endif %}
+    {% endif %}
   {% endfor %}
 </div>
