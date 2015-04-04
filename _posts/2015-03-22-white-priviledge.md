@@ -2,6 +2,7 @@
 layout: post
 title: "White Privilege: Unpacking the Invisible Knapsack"
 published: false
+tags: racism
 ---
 
 For school I recently had to read [White Privilege: Unpacking the Invisible Knapsack](https://www.isr.umich.edu/home/diversity/resources/white-privilege.pdf "article") by Peggy McIntosh.  It was quite interesting, and my views on both gender and racial inequality changed considerably after the article.
