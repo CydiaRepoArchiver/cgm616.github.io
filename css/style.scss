@@ -1,0 +1,197 @@
+---
+---
+
+
+// Imports
+@import url(http://fonts.googleapis.com/css?family=Raleway:700,100,400,200,300); // Font import
+@import "reset";
+@import "variables";
+@import "normalize";
+@import "skeleton";
+
+
+// General
+body {
+  background-color: $lightGray;
+}
+
+a {
+
+  &:hover {
+    color: $blue;
+  }
+}
+
+.date {
+  padding: 0 10px 0 10px;
+  font-style: italic;
+  font-size: 1.2rem;
+}
+
+.center {
+  text-align:center;
+}
+
+
+// Masthead
+.masthead-wrapper {
+  background-color: $darkerGray;
+  color: $lightGray;
+  margin-bottom: 50px;
+  border-bottom: 1px solid $black;
+}
+
+.masthead {
+  color: $lightGray;
+  font-weight: 100;
+  text-align: center;
+
+  a {
+    color: $lightGray;
+    text-decoration: none;
+
+    &:hover, &:active {
+      color: $blue;
+    }
+  }
+}
+
+.site-name {
+  letter-spacing: .3rem;
+}
+
+.site-description {
+  margin: -15px 0 5px 0;
+  letter-spacing: .5rem;
+  // color: $darkGray;
+}
+
+nav {
+  margin: 5px 0 10px 0;
+  letter-spacing: .5rem;
+
+  a {
+    margin: 0 4.66666666667% 0 4.66666666667%;
+  }
+}
+
+
+// Footer
+.footer-wrapper {
+  background-color: $darkerGray;
+  color: $lightGray;
+  margin-top: 50px;
+  text-align: center;
+}
+
+footer {
+  padding: 15px 0 10px 0;
+  display: inline-block;
+}
+
+.svg-icon {
+  margin: 0 10px 0 10px;
+}
+
+.copyright {
+  margin: 5px 0 0 0;
+  font-size: 1.2rem;
+}
+
+
+// Tags
+.tags {
+
+  a {
+    text-decoration: none;
+    color: $darkGray;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+.tag {
+  padding: 0 2px 0 2px;
+  background: $white;
+}
+
+.tagcloud {
+  white-space: nowrap;
+
+  .tag {
+    padding: 2px 2px 2px 2px;
+  }
+}
+
+
+// Landing page
+.intro {
+
+  h4 {
+    font-weight: 300;
+  }
+}
+
+
+// Post formatting
+.img-banner-container {
+  text-align: center;
+}
+
+.img-banner {
+  display: inline-block;
+}
+
+.post {
+
+  .date {
+    padding: 0 0 0 0;
+  }
+}
+
+.post-info {
+  font-style: italic;
+  font-size: 1.2rem;
+  padding: 0 0 0 2px;
+  margin: -20px 0 15px 0;
+
+  a:hover {
+    color: $blue;
+  }
+
+  hr {
+    margin-bottom: 0;
+  }
+}
+
+
+// Selection highlighting
+::-moz-selection {
+  color: $black;
+  background: $lightGray;
+}
+
+::selection {
+  color: $black;
+  background: $lightGray;
+}
+
+
+// Misc
+.post-list {
+  a {
+    color: $darkGray;
+    text-decoration: none;
+
+    &:hover {
+      color: $blue;
+    }
+  }
+}
+
+
+// More imports
+@import "highlights";
+@import "svg-icons";
