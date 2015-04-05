@@ -2,10 +2,10 @@
 layout: post
 title: "Publishing to a Jekyll blog on an iPhone"
 published: true
-tags: iphone jekyll git jailbreak
+tags: iphone jekyll git jailbreak tutorial
 ---
 
-This entire blog is published on Jekyll. It's really great, with static sites, free hosting on GitHub, support for sass and liquid formatting, and all the rest. However, there is a problem. It can't be easily published to from an iPhone, or other wise on the go. I decided to fix that. 
+This entire blog is published on Jekyll. It's really great, with static sites, free hosting on GitHub, support for sass and liquid formatting, and all the rest. However, there is a problem. It can't be easily published to from an iPhone, or other wise on the go. I decided to fix that.
 
 So, the iPhone has no terminal emulator that comes with it. In order to get that, you have to jailbreak. Also, there isn't an app on the AppStore that I've noticed that allows actually changing files in a git repo and pushing, while also saving a local copy. And of course, what good is a blog based on git if a local copy can't be saved in case GitHub goes down?
 
