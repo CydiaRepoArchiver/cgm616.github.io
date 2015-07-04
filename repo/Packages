@@ -30,3 +30,20 @@ Author: cgm616 <cgm616+cydia@gmail.com>
 Depiction: http://repo.graber-mitchell.com/depictions/?dep=com.cgm616.notifyonrespring
 Name: NotifyOnRespring
 
+Package: me.cgm616.ondeviceconsole
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 132
+Filename: debs//me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
+Size: 9498
+MD5sum: 1014dcf6e037014d0d1e85b13c1f2c16
+SHA1: 1c1f6f85edd3d64679bc9c1ce09f0cc11e147a6d
+SHA256: 7199169c34e8feac3a6b9484bdecde74559947899c746076c67ae063576529fc
+Section: System
+Description: Tool to view system log from the shell.
+Tag: role::hacker
+Author: Evan Swick and cgm616
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondeviceconsole
+Name: ondeviceconsole
+
