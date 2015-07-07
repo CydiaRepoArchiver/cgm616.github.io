@@ -17,7 +17,7 @@
     <?php
         echo "<h2>Screenshots of $name</h2>";
     ?>
-    
+
 
     <ul>
         <li>
@@ -31,6 +31,6 @@
         </li>
     </ul>
 
-    <p><a href="http://reddit.com/r/RCRepo">Reddit Community Repo</a></p>
+    <p><a href="http://cgm616.me/repo/">cgm616's repo</a></p>
 </body>
 </html>
