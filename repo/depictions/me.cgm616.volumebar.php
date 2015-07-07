@@ -1,10 +1,10 @@
 <?php
     $name="VolumeBar";
     $description=array("Removes the ugly volume HUD and changes it to a bar like a notification.  The bar has a slider which can also be used to changed the volume.",
-                       "This package is still in beta.  Please expect bugs.  Send any bugs you find to my email address.",
-                       "Known bug: when changing the ringer volume, slider does not move");
+                       "This package is still in beta.  Please expect bugs.  Send any bugs you find to my email address.");
 
-    $changelog=array("0.0.2~beta", " - Fix prefs buttons not working",
+    $changelog=array("0.0.3~beta", " - Fix slider when changing ringer volume instead of player volume",
+                     "0.0.2~beta", " - Fix prefs buttons not working",
                      "0.0.1~beta", " - Beta release");
 
     $devText="Package Contents on Github";
