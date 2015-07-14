@@ -48,16 +48,16 @@ Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondevicecon
 Name: ondeviceconsole
 
 Package: me.cgm616.volumebar
-Version: 0.1.1~beta
+Version: 0.2.0~beta
 Architecture: iphoneos-arm
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
-Installed-Size: 372
+Installed-Size: 376
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: debs//me.cgm616.volumebar_0.1.1~beta_iphoneos-arm.deb
-Size: 196406
-MD5sum: aebfce8c534399b6693c6387a91f9f40
-SHA1: 23d4eea07a815ece2177db45e970da518da109e8
-SHA256: 8e1e501c288cd8bb1d650a74a0a7b954a685fa1f003ceac5af364b668903c753
+Filename: debs//me.cgm616.volumebar_0.2.0~beta_iphoneos-arm.deb
+Size: 199042
+MD5sum: 4bd2d51504cd128aa745efbade372c80
+SHA1: a09c8652bb53cdc026cf983b714206bf024c29ee
+SHA256: 89408c17d49253aac094e12d24f2e999befb03d513ddf86634e67c960354a4a6
 Section: Tweaks
 Description: Changes the ugly volume HUD to a nice bar.
 Author: cgm616 <cgm616+cydia@gmail.com>
