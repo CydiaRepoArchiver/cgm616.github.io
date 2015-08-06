@@ -48,16 +48,101 @@ Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondevicecon
 Name: ondeviceconsole
 
 Package: me.cgm616.volumebar
+Version: 0.0.1beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.0.1beta_iphoneos-arm.deb
+Size: 191254
+MD5sum: c0c0aeae8c99dce2b4faba0e72d6087e
+SHA1: b76fb3c3db54cc48af6e41b7702ea648eb7f6aa6
+SHA256: e1f5660a474392cae4e4982940f3f2dcb203227e800a85e16418546fcb1b09f9
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
+Name: VolumeBar
+
+Package: me.cgm616.volumebar
+Version: 0.0.2~beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.0.2~beta_iphoneos-arm.deb
+Size: 193226
+MD5sum: 7a15851e0ff5b739226ba5b752e0aa69
+SHA1: 1cecfdc2803a718b2f8012deb3da1db8623973dc
+SHA256: c633eee143296341f1a7353742ecf914b2cf18566e2e9dcdd21617e74957ac14
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
+Name: VolumeBar
+
+Package: me.cgm616.volumebar
+Version: 0.0.3~beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.0.3~beta_iphoneos-arm.deb
+Size: 194052
+MD5sum: 3f80ed3fd12fdb6bb2131cafb17fb3cc
+SHA1: a6a8016b253ff9a2845c1fc2405b8a2abf22da72
+SHA256: c94e95642bd1d2f981e53e19c6fdf67b88aa8e5660568dfc24bbf398a49dcf48
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
+Name: VolumeBar
+
+Package: me.cgm616.volumebar
+Version: 0.1.0~beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.1.0~beta_iphoneos-arm.deb
+Size: 196414
+MD5sum: 227020d3cbdd9e3217528457f1d05da4
+SHA1: 87f74289a0bfac5d3f6ee0cfc500577cb4878a95
+SHA256: 3af906bf5803e3705ddeefd3705f4d1fbc74644e75b6461bc7a9bb7d8a3e0857
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
+Name: VolumeBar
+
+Package: me.cgm616.volumebar
+Version: 0.1.1~beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 372
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.1.1~beta_iphoneos-arm.deb
+Size: 196822
+MD5sum: f83d68a1c254d9b3f7886f6f79489d7a
+SHA1: ce6c6932f5a51c48e682fe69db980cae1630b6a1
+SHA256: 830c2df0f7139acb585c12f03fd9eff85f9ce765c21c1c470b5c960932884d1a
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
+Name: VolumeBar
+
+Package: me.cgm616.volumebar
 Version: 0.2.0~beta
 Architecture: iphoneos-arm
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Installed-Size: 376
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: debs//me.cgm616.volumebar_0.2.0~beta_iphoneos-arm.deb
-Size: 199042
-MD5sum: 4bd2d51504cd128aa745efbade372c80
-SHA1: a09c8652bb53cdc026cf983b714206bf024c29ee
-SHA256: 89408c17d49253aac094e12d24f2e999befb03d513ddf86634e67c960354a4a6
+Size: 199008
+MD5sum: c2973a87829f4e72cf49670630fb0ae6
+SHA1: 255626da1cf9611292184cd9fa5a65d8d051f02a
+SHA256: 4b0e9433f4b4aac0907da6a58a7cccdf0c7efcc575a80ad70ee15cc21c9bb3ba
 Section: Tweaks
 Description: Changes the ugly volume HUD to a nice bar.
 Author: cgm616 <cgm616+cydia@gmail.com>
