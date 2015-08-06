@@ -149,3 +149,20 @@ Author: cgm616 <cgm616+cydia@gmail.com>
 Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.volumebar
 Name: VolumeBar
 
+Package: me.cgm616.volumebar
+Version: 0.2.1~beta
+Architecture: iphoneos-arm
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Installed-Size: 376
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs//me.cgm616.volumebar_0.2.1~beta_iphoneos-arm.deb
+Size: 199780
+MD5sum: 3e5631e2d34e7ff7f6a4c5b47254e227
+SHA1: 5b64734df40e1a6b27be78ffe53c1651bddc521f
+SHA256: 36ee8b17c8457cbea42210fa14ae7f432dc9505481b24670529a8ac4a05278ce
+Section: Tweaks
+Description: Changes the ugly volume HUD to a nice bar.
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: http://dep.cgm616.me/depictions/me.cgm616.volumebar
+Name: VolumeBar
+
