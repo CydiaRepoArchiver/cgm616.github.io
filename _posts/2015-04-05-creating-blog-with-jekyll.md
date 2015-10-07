@@ -20,8 +20,7 @@ After you have renamed it, look at the actual contents of the file.  At the star
 layout: post
 title: "Hello World"
 published: true
----
-</code></pre>
+---</code></pre>
 This is called the "front matter" of the post.  It determines the properties of the post, such as the title and the way it is seen on the screen, and whether or not the post is available for view.  If you want, you can add more properties to this front matter, such as categories.  If I put <code>categories: first-post</code> in my front matter, it would be assigned those categories and they could be read with Liquid.  We'll talk about that in a later post.  It can get pretty complicated.
 
 Name the title of the post whatever you want.  Then, delete everything below the bottom three hyphens.  You want to create your own post.  Skip a line below the hypens, and start typing your post.  This can be formatted with Markdown and html however you want.  When you are finished, scroll down, type a quick commit message, and hit the green "Commit changes" button.  Done.  You post should now be published.  Go back to your blog's url and reload the page.  It should show up there.  
