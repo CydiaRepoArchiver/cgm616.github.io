@@ -16,8 +16,7 @@ First, you have to clone jekyll-now.  To do that, go to the repo and click the "
 As you can see, an automatic blog has been generated and hosted at that address.  It will look pretty generic right now, but you can change that later.  At this point in time, you are ready to go.  To make a new post, go back to the repo in GitHub and navigate to the "_posts" file.  Here you will see a file named "year-mm-dd-hello-world.md".  Click on that file and then click the pencil button in the right-hand side.  Rename it to "[current year]-[current month]-[current day]-[whatever you want the title to be].md".  For example, mine is "2015-03-16-hello-world.md".  The title of the post needs to be in this format, or else Jekyll cannot read it correctly.  
 
 After you have renamed it, look at the actual contents of the file.  At the start, it has a block of text surrounded by three hyphens, like this:
-<pre><code class="language-markdown">
----
+<pre><code class="language-markdown">---
 layout: post
 title: "Hello World"
 published: true
