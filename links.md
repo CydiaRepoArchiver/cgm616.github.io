@@ -6,7 +6,9 @@ published: true
 ---
 
 
+
 Some cool links that have been both time-saving and time-consuming.
+
 - [Need to choose a license for something?](http://choosealicense.com/)
 - [Ever heard of the jargon file?](http://www.catb.org/jargon/html/)
 - [Recording a terminal session is actually easy...](http://showterm.io/)
