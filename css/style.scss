@@ -166,6 +166,10 @@ footer {
   }
 }
 
+img[alt="picture"] { 
+  max-width:  100%px;
+}
+
 
 // Selection highlighting
 ::-moz-selection {
