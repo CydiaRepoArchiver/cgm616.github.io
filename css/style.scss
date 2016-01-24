@@ -52,6 +52,11 @@ a {
 
     &:hover, &:active {
       color: $blue;
+      cursor: pointer;
+    }
+    &.nolink:hover {
+      color: $lightGray;
+      cursor: default;
     }
   }
 }
@@ -66,12 +71,68 @@ a {
   // color: $darkGray;
 }
 
-nav {
-  margin: 5px 0 10px 0;
+nav.primary {
+  list-style: none;
+  margin: 5px 0 -20px 0;
   letter-spacing: .5rem;
-
-  a {
-    margin: 0 4.66666666667% 0 4.66666666667%;
+  position: relative;
+  z-index: 5;
+  text-align: center;
+  white-space: nowrap;
+  ul {
+    margin: none;
+    li {
+      margin: 0 4.66666666667% 0 4.66666666667%;
+      display: inline;
+      position: relative;
+      padding: 2px 2px 2px 2px;
+      width: auto;
+      &:hover {
+        a {
+          background: $darkGray;
+        }
+        ul {
+          left: 0;
+          margin: 0;
+          display: block;
+          opacity: 1;
+          visibility: visible;
+        }
+      }
+      ul {
+        background: #fff;
+        background: rgba(255,255,255,0);
+        position: absolute;
+        display: none;
+        opacity: 0;
+        visibility:  hidden;
+        z-index: 999;
+        text-align: left;
+        width: auto;
+        li {
+          float: none;
+          margin: none;
+          background-color: $darkGray;
+          display: block;
+          outline: none;
+          &:hover {
+            background: $darkerGray;
+            a {
+              background: $darkerGray;
+            }
+          }
+          a {
+            background: $darkGray;
+            white-space: nowrap;
+            min-width: 100%;
+          }
+        }
+      }
+    }
+    a {
+      display: inline;
+      padding: 2px 2px 2px 2px;
+    }
   }
 }
 
@@ -173,13 +234,13 @@ img[alt="picture"] {
 
 // Selection highlighting
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $darkGray;
 }
 
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: $lightGray;
+  background: $darkGray;
 }
 
 
