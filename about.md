@@ -12,7 +12,7 @@ I built a computer in March 2014, and that's what I mostly use to program/do thi
 
 This blog will be about anything I feel like posting. I probably won't post very often. In addition, this blog will be a portfolio for a Digital Media course that I'm taking.
 
-<img src="{{ site.baseurl }}/images/lightningport.png" style="{ width: 50px }" alt="picture"><>
+<img src="{{ site.baseurl }}/images/lightningport.png" style="{ max-width: 50px; height: auto; }" alt="picture"></img>
 
 ### Contact me
 
