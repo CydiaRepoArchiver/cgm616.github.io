@@ -15,7 +15,7 @@ published: true
 <p>This blog will be about anything I feel like posting. I probably won't post very often. In addition, this blog will be a portfolio for a Digital Media course that I'm taking.</p>
   </div>
   <div class="four columns">
-  <img src="{{ site.baseurl }}/images/lightningport.png" style="max-width: 200px; height: auto;" alt="picture"></img>
+  <img src="{{ site.baseurl }}/images/lightningport.png" style="max-width: 200px; height: auto;" alt="picture">
   </div>
 </div>
 
