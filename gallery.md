@@ -21,13 +21,13 @@ published: true
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/lightningport.png" itemprop="contentUrl" data-size="2048x2048">
-          <img src="{{ site.baseurl }}/images/lightningport.png" itemprop="thumbnail" alt="Image description" />
+          <img src="{{ site.baseurl }}/images/lightningport.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">Modeled in Magica Voxel, copyright cgm616</figcaption>                            </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/rubikscube.png" itemprop="contentUrl" data-size="2048x2048">
-          <img src="{{ site.baseurl }}/images/rubikscube.png" itemprop="thumbnail" alt="Image description" />
+          <img src="{{ site.baseurl }}/images/rubikscube.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">Modeled in Magica Voxel, copyright cgm616</figcaption>
     </figure>

@@ -16,7 +16,7 @@ body {
 }
 
 a {
-
+  color: $darkBlue;
   &:hover {
     color: $blue;
   }
@@ -78,6 +78,7 @@ nav.primary {
   z-index: 5;
   text-align: center;
   white-space: nowrap;
+  line-height: 2em;
   ul {
     margin: 0;
     padding: 0;
@@ -123,7 +124,7 @@ nav.primary {
           }
           a {
             white-space: nowrap;
-            padding: 0 100px 0 15px;
+            padding: 5px 100px 5px 15px;
           }
         }
       }
@@ -272,6 +273,9 @@ img[alt="picture"] {
 }
 .my-gallery figcaption {
   display: none;
+}
+.thumb {
+  border: 1px solid $black;
 }
 
 // More imports
