@@ -11,12 +11,20 @@
 
 
 // General
+
+* {margin:0;padding:0;}
+
 body {
   background-color: $lightGray;
+  height: 100%;
+}
+
+html {
+  height: 100%;
 }
 
 a {
-
+  color: $darkBlue;
   &:hover {
     color: $blue;
   }
@@ -78,6 +86,7 @@ nav.primary {
   z-index: 5;
   text-align: center;
   white-space: nowrap;
+  line-height: 2em;
   ul {
     margin: 0;
     padding: 0;
@@ -123,7 +132,7 @@ nav.primary {
           }
           a {
             white-space: nowrap;
-            padding: 0 100px 0 15px;
+            padding: 5px 100px 5px 15px;
           }
         }
       }
@@ -137,11 +146,31 @@ nav.primary {
 
 
 // Footer
+#main-wrapper {
+  min-height: 80%;
+}
+
 .footer-wrapper {
   background-color: $darkerGray;
   color: $lightGray;
-  margin-top: 50px;
   text-align: center;
+  position: relative;
+  margin-top: -90px;
+  height: 90px;
+  clear: both;
+}
+
+#main {
+  overflow:auto;
+  padding-bottom: 90px;
+}
+
+body:before {
+  content:"";
+  height:100%;
+  float:left;
+  width:0;
+  margin-top:-32767px;/* thank you Erik J - negate effect of float*/
 }
 
 footer {
@@ -272,6 +301,9 @@ img[alt="picture"] {
 }
 .my-gallery figcaption {
   display: none;
+}
+.thumb {
+  border: 1px solid $black;
 }
 
 // More imports
