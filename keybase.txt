@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/cgm616
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cgm616.me
+  * I am cgm616 (https://keybase.io/cgm616) on keybase.
+  * I have a public key with fingerprint EFB6 3C79 9C68 8130 A12A  D820 D688 4CD4 F09C FE94
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013930faf2fccf71718f5b7e3b06ecda9ddb361be3235875721c927b6853b177040a",
+            "fingerprint": "efb63c799c688130a12ad820d6884cd4f09cfe94",
+            "host": "keybase.io",
+            "key_id": "d6884cd4f09cfe94",
+            "kid": "01013930faf2fccf71718f5b7e3b06ecda9ddb361be3235875721c927b6853b177040a",
+            "uid": "ab317faf6c7345e0a1aa4faab3ea4019",
+            "username": "cgm616"
+        },
+        "service": {
+            "hostname": "cgm616.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1454716487,
+    "expire_in": 157680000,
+    "prev": "ee1cebf47a7f00b88bb744cffdd5fcb278a56b6142a30cc571a699c8d5ef0693",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBVBGD6mZYpBSaBWFC5oUEeZ2Z2d2T0vviV0eSjJ6HqamZ3R7eie
+0zl7TLN7SRHdNLCw6AbdLxLpgxGVKUGEYHfLh4IouoAU9BBF1KzUQ9Bj8zLz//N9
+33z/P3//hMxQbsac9pfgbeHi5oz7va3pUHU3rmzWWNxp0iLNWkyMbqLOESk/GnMd
+LaIBCKBhG0BSqUvOJYEEWtJkRBgMYMEdajsOMzBkwtAN0yIm0SG3dcKwZRoMEgIQ
+oFpYk65XI5KJpOv5SlZIhg1ObJtjy4IGoFCnjqUDR4WIO0gCm0thI0WsjacChjLH
+aEqUu3GVU0F01N4/8P/Zd3pUjjIDEqWFOTGQKZRfSpGkKi0oAtAOgCmR9Gi9UGhe
+U48h1jaGNZVrcLkI2hrU8dd9uTqHtUQy7sd5vE6la30/EQlYflMigK0TLPpbIMpc
+z1EdVIQGkUy5cU+LQIXkvhsoQmQiAjGySFgTjQk3KaJugDAJtoBawTOiIei7gFww
+iQglEgBmWYwRhLiUjmNKznRiURMzDJFODcC5SSDF6pMsxxQSYNvQgpLWenEtgpRN
+WqMkU26NR/10Umgb79xekRXKyA2NGzsmmKxQbs7EP/O2Jif7R/63vt7xwz1OemZf
+eR0bcYfvGvXHSz+gqzLLL84bWLNjW9GjZemGm9vvFfyc/XJS+8j14tetFds37yfH
+F3R1LoSLenFhZOWhwetT9hVve/D8UEfkTGPJ4csf2/aga++73MZpVcPfMof6ftxr
+TDOvuqfs4pbeyUtmhqI9nyeGY0vpwbbMDyT2ruxB/4s8e0bFkfKColvnT8673A2q
+83ZP1Y+t795wY/GltjOnZ2dPKXnWnvNp1cCTXev3e9/Ltj4d+nLq0c7BC6vF2VlV
+8/O7Xk/HseHOry0d5x6+2LS39XH2mEUHbzR1v2qa5+bsrlzilBxYTvur5q4qOjqt
+haC80rdX3nxuOfELSbM8Kg==
+=n5kr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cgm616
+
+==================================================================
+
