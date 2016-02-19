@@ -32,6 +32,15 @@ published: true
       <figcaption itemprop="caption description">Modeled in Magica Voxel, copyright cgm616</figcaption>
     </figure>
 
+
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/octopus.png" itemprop="contentUrl" data-size="900x900">
+          <img src="{{ site.baseurl }}/images/octopus.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Example of my vector art, copyright cgm616</figcaption>
+    </figure>
+
+
   </div>
 
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
