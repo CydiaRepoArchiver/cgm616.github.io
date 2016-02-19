@@ -34,7 +34,7 @@ published: true
 
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ site.baseurl }}/images/octopus.png" itemprop="contentUrl" data-size="900x900">
+      <a href="{{ site.baseurl }}/images/octopus.png" itemprop="contentUrl" data-size="3750x3750">
           <img src="{{ site.baseurl }}/images/octopus.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">Example of my vector art, copyright cgm616</figcaption>
