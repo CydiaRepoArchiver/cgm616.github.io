@@ -46,6 +46,13 @@ published: true
       </a>
       <figcaption itemprop="caption description">A realistic egg vector drawing, copyright cgm616</figcaption>
     </figure>
+    
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/ninja.png" itemprop="contentUrl" data-size="4981x4992">
+          <img src="{{ site.baseurl }}/images/ninja.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">My first vector drawing off of a tutorial, copyright cgm616</figcaption>
+    </figure>
 
   </div>
 
