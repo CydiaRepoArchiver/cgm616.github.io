@@ -23,13 +23,13 @@ published: true
       <a href="{{ site.baseurl }}/images/lightningport.png" itemprop="contentUrl" data-size="2048x2048">
           <img src="{{ site.baseurl }}/images/lightningport.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
-      <figcaption itemprop="caption description">Modeled in Magica Voxel, copyright cgm616</figcaption>                            </figure>
+      <figcaption itemprop="caption description">Modeled in Magica Voxel. (c) 2016 cgm616</figcaption>                            </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/rubikscube.png" itemprop="contentUrl" data-size="2048x2048">
           <img src="{{ site.baseurl }}/images/rubikscube.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
-      <figcaption itemprop="caption description">Modeled in Magica Voxel, copyright cgm616</figcaption>
+      <figcaption itemprop="caption description">Modeled in Magica Voxel. (c) 2016 cgm616</figcaption>
     </figure>
 
 
@@ -37,21 +37,21 @@ published: true
       <a href="{{ site.baseurl }}/images/octopus.png" itemprop="contentUrl" data-size="3750x3750">
           <img src="{{ site.baseurl }}/images/octopus.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
-      <figcaption itemprop="caption description">Example of my vector art, copyright cgm616</figcaption>
+      <figcaption itemprop="caption description">A vector logo for a crochet company. (c) 2016 cgm616</figcaption>
     </figure>
 
 <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/egg.png" itemprop="contentUrl" data-size="3634x5300">
           <img src="{{ site.baseurl }}/images/egg.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
-      <figcaption itemprop="caption description">A realistic egg vector drawing, copyright cgm616</figcaption>
+      <figcaption itemprop="caption description">A realistic egg vector drawing from a tutorial. (c) 2016 cgm616</figcaption>
     </figure>
     
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/ninja.png" itemprop="contentUrl" data-size="4981x4992">
           <img src="{{ site.baseurl }}/images/ninja.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
-      <figcaption itemprop="caption description">My first vector drawing off of a tutorial, copyright cgm616</figcaption>
+      <figcaption itemprop="caption description">My first vector drawing off of a tutorial. (c) 2016 cgm616</figcaption>
     </figure>
 
   </div>
