@@ -54,6 +54,13 @@ published: true
       <figcaption itemprop="caption description">My first vector drawing off of a tutorial. (c) 2016 cgm616</figcaption>
     </figure>
 
+ <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/surgical.png" itemprop="contentUrl" data-size="4981x4992">
+          <img src="{{ site.baseurl }}/images/surgical.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">A typographic logo for a surgical instrument company. (c) 2016 cgm616</figcaption>
+    </figure>
+
   </div>
 
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
