@@ -55,7 +55,7 @@ published: true
     </figure>
 
  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ site.baseurl }}/images/surgical.png" itemprop="contentUrl" data-size="4981x4992">
+      <a href="{{ site.baseurl }}/images/surgical.png" itemprop="contentUrl" data-size="2420x1646">
           <img src="{{ site.baseurl }}/images/surgical.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">A typographic logo for a surgical instrument company. (c) 2016 cgm616</figcaption>
