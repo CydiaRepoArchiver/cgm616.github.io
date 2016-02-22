@@ -2,6 +2,8 @@ image: ruby:2.1
 
 pages:
   script:
+  - export LC_ALL="en_US.UTF-8"
+  - export LANG="en_US.UTF-8"
   - gem install jekyll
   - gem install jekyll-sitemap
   - jekyll build -d public/
