@@ -32,6 +32,19 @@ published: true
       <figcaption itemprop="caption description">Modeled in Magica Voxel. (c) 2016 cgm616</figcaption>
     </figure>
 
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/ninja.png" itemprop="contentUrl" data-size="4000x2333">
+          <img src="{{ site.baseurl }}/images/ninja.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">My first vector drawing off of a tutorial. (c) 2016 cgm616</figcaption>
+    </figure>
+    
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/surgical.png" itemprop="contentUrl" data-size="2420x1646">
+          <img src="{{ site.baseurl }}/images/surgical.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">A typographic logo for a surgical instrument company. (c) 2016 cgm616</figcaption>
+    </figure>
 
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/octopus.png" itemprop="contentUrl" data-size="3750x3750">
@@ -45,20 +58,6 @@ published: true
           <img src="{{ site.baseurl }}/images/egg.png" itemprop="thumbnail" class="thumb" alt="Image description" />
       </a>
       <figcaption itemprop="caption description">A realistic egg vector drawing from a tutorial. (c) 2016 cgm616</figcaption>
-    </figure>
-    
-    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ site.baseurl }}/images/ninja.png" itemprop="contentUrl" data-size="4000x2333">
-          <img src="{{ site.baseurl }}/images/ninja.png" itemprop="thumbnail" class="thumb" alt="Image description" />
-      </a>
-      <figcaption itemprop="caption description">My first vector drawing off of a tutorial. (c) 2016 cgm616</figcaption>
-    </figure>
-
-    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="{{ site.baseurl }}/images/surgical.png" itemprop="contentUrl" data-size="2420x1646">
-          <img src="{{ site.baseurl }}/images/surgical.png" itemprop="thumbnail" class="thumb" alt="Image description" />
-      </a>
-      <figcaption itemprop="caption description">A typographic logo for a surgical instrument company. (c) 2016 cgm616</figcaption>
     </figure>
     
     <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
