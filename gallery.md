@@ -35,6 +35,15 @@ published: true
     </figure>
 
   </div>
+  
+  <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/showcase.png" itemprop="contentUrl" data-size="2048x2048">
+          <img src="{{ site.baseurl }}/images/showcase.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">A handwriting-based font carefully created and designed. (c) 2016 cgm616</figcaption>
+    </figure>
+
+  </div>
 
 <!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
