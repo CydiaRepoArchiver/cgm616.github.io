@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cool Links
+title: Links and Downloads
 permalink: /links/
 published: true
 ---
@@ -17,3 +17,7 @@ Some cool links that have been both time-saving and time-consuming.
 - [All of U.S case law, again](https://www.law.cornell.edu/)
 - [Stateless password manager I use](http://masterpasswordapp.com/)
 - [Archive of interesting Usenet posts](http://yarchive.net/)
+
+Downloads of things I've made or found.
+
+- [Sophocles font, made by me](https://cgm616.me/downloads/sophocles.zip
