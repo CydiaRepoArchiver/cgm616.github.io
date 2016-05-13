@@ -6,6 +6,7 @@ published: true
 ---
 
 Some cool links that have been both time-saving and time-consuming.
+
 - [Need to choose a license for something?](http://choosealicense.com/)
 - [Ever heard of the jargon file?](http://www.catb.org/jargon/html/)
 - [Recording a terminal session is actually easy...](http://showterm.io/)
@@ -15,5 +16,8 @@ Some cool links that have been both time-saving and time-consuming.
 - [Stateless password manager I use](http://masterpasswordapp.com/)
 - [Archive of interesting Usenet posts](http://yarchive.net/)
 
+---
+
 Downloads of things I've made or found.
+
 - [Sophocles font, made by me]({{ site.baseurl }}/downloads/sophocles.zip)
