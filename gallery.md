@@ -33,8 +33,6 @@ published: true
       </a>
       <figcaption itemprop="caption description">A typographic logo for a surgical instrument company. (c) 2016 cgm616</figcaption>
     </figure>
-
-  </div>
   
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
       <a href="{{ site.baseurl }}/images/showcase.png" itemprop="contentUrl" data-size="2048x2048">
