@@ -66,6 +66,20 @@ published: true
       </a>
       <figcaption itemprop="caption description">A traditional Japanese Ukiyo-e style print made in Illustrator. (c) 2016 cgm616</figcaption>
     </figure>
+    
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/showcase.png" itemprop="contentUrl" data-size="2048x2048">
+          <img src="{{ site.baseurl }}/images/showcase.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">A handwriting-based font carefully created and designed. (c) 2016 cgm616</figcaption>
+    </figure>
+    
+    <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+      <a href="{{ site.baseurl }}/images/wire.png" itemprop="contentUrl" data-size="5000x3333">
+          <img src="{{ site.baseurl }}/images/wire.png" itemprop="thumbnail" class="thumb" alt="Image description" />
+      </a>
+      <figcaption itemprop="caption description">Wire-form typography of my username. (c) 2016 cgm616</figcaption>
+    </figure>
 
   </div>
 
