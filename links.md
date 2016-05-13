@@ -20,4 +20,4 @@ Some cool links that have been both time-saving and time-consuming.
 
 Downloads of things I've made or found.
 
-- [Sophocles font, made by me](https://cgm616.me/downloads/sophocles.zip)
+- [Sophocles font, made by me]({{ site.baseurl }}/downloads/sophocles.zip)
