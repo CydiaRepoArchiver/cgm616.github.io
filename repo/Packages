@@ -167,9 +167,9 @@ Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Filename: debs//me.cgm616.volumebar9_0.1.1-beta_iphoneos-arm.deb
-Size: 31806
+Size: 31810
 Installed-Size: 312
-MD5sum: 9bccac8bfcc31f308d26784b60c7ad84
+MD5sum: bb21c9d08ea43a5f1036bbf074b285db
 Description: Changes the ugly volume HUD to a nice bar.
 Name: VolumeBar9
 Author: cgm616 <cgm616+cydia@gmail.com>
