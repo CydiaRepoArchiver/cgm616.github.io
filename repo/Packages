@@ -160,3 +160,17 @@ Description: Changes the ugly volume HUD to a nice bar.
 Name: VolumeBar9
 Author: cgm616 <cgm616+cydia@gmail.com>
 
+Package: me.cgm616.volumebar9
+Version: 0.1.1-beta
+Section: Tweaks
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: debs//me.cgm616.volumebar9_0.1.1-beta_iphoneos-arm.deb
+Size: 31806
+Installed-Size: 312
+MD5sum: 9bccac8bfcc31f308d26784b60c7ad84
+Description: Changes the ugly volume HUD to a nice bar.
+Name: VolumeBar9
+Author: cgm616 <cgm616+cydia@gmail.com>
+
