@@ -7,11 +7,11 @@ Architectures: iphoneos-arm
 Components: main
 Description: My personal repo for some tweaks I've made and some other stuff.
 MD5Sum:
- MD5 (Packages) = 55487132a915602829725573d7008278
- MD5 (Packages.bz2) = 99697caffbf71982dcf1c2224737cc31
+ MD5 (Packages) = 5b4f62b8dfeca90415df06ce133b2376
+ MD5 (Packages.bz2) = 0c12d72c5c2933d704670760f3a99d3c
 SHA1:
- cd3f03d367bd4132aae0fbfdc613328c6cf888da  Packages
- 484d852c8807cecb67b5ced98d934bbaa2efe358  Packages.bz2
+ 0e25613363fdd3dafb23050d1e4d4e042e87fc2c  Packages
+ cf2b79cbab0ea25890cc45e735ab59cbac359c29  Packages.bz2
 SHA256:
- 6f6ffa3deb57a436fab4a9dae4ad3b6ccca166db1b219a0f2a69b7b9aa329f7a  Packages
- 938f0d3c7c16ec08ba943f47e08e6bba3a2ed1d362b34720b03a7aa57e5a93a2  Packages.bz2
+ fd021067c0651ed9a5e50e9f3f24baf9050b0571e6d1c247e21f05e514d803fb  Packages
+ 98e603b620220d33aedc8b3af059242e4629c8bb718a657491d483c0f8c07639  Packages.bz2
