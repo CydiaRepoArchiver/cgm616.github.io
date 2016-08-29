@@ -3,7 +3,7 @@ Version: 1.1.1-1
 Section: Addons (Zeppelin)
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//com.cgm616.csgozeppelinlogos.deb
+Filename: .//debs/com.cgm616.csgozeppelinlogos.deb
 Size: 28868
 MD5sum: f16d1b379165cfbe120d39ae37b3365e
 Description: CSGO-related logos for Zeppelin!
@@ -17,7 +17,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: debs//com.cgm616.notifyonrespring_1.0.0_iphoneos-arm.deb
+Filename: .//debs/com.cgm616.notifyonrespring_1.0.0_iphoneos-arm.deb
 Size: 3306
 Installed-Size: 72
 MD5sum: 36252aa52a23208d063b687c47a69f61
@@ -32,7 +32,7 @@ Section: System
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: 
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
 Size: 9498
 Installed-Size: 132
 MD5sum: 1014dcf6e037014d0d1e85b13c1f2c16
@@ -47,7 +47,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.0.1beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.0.1beta_iphoneos-arm.deb
 Size: 191254
 Installed-Size: 372
 MD5sum: c0c0aeae8c99dce2b4faba0e72d6087e
@@ -62,7 +62,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.0.2~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.0.2~beta_iphoneos-arm.deb
 Size: 193226
 Installed-Size: 372
 MD5sum: 7a15851e0ff5b739226ba5b752e0aa69
@@ -77,7 +77,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.0.3~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.0.3~beta_iphoneos-arm.deb
 Size: 194052
 Installed-Size: 372
 MD5sum: 3f80ed3fd12fdb6bb2131cafb17fb3cc
@@ -92,7 +92,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.1.0~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.1.0~beta_iphoneos-arm.deb
 Size: 196414
 Installed-Size: 372
 MD5sum: 227020d3cbdd9e3217528457f1d05da4
@@ -107,7 +107,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.1.1~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.1.1~beta_iphoneos-arm.deb
 Size: 196822
 Installed-Size: 372
 MD5sum: f83d68a1c254d9b3f7886f6f79489d7a
@@ -122,7 +122,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.2.0~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.2.0~beta_iphoneos-arm.deb
 Size: 199008
 Installed-Size: 376
 MD5sum: c2973a87829f4e72cf49670630fb0ae6
@@ -137,7 +137,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar_0.2.1~beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar_0.2.1~beta_iphoneos-arm.deb
 Size: 199780
 Installed-Size: 376
 MD5sum: 3e5631e2d34e7ff7f6a4c5b47254e227
@@ -152,7 +152,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.1.0-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.1.0-beta_iphoneos-arm.deb
 Size: 30290
 Installed-Size: 312
 MD5sum: 60eb0f9e39acfb5ba7ded5b82f98aa43
@@ -166,7 +166,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.1.1-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.1.1-beta_iphoneos-arm.deb
 Size: 31810
 Installed-Size: 312
 MD5sum: bb21c9d08ea43a5f1036bbf074b285db
@@ -180,7 +180,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cc.tweak.libobjcipc
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.1.2-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.1.2-beta_iphoneos-arm.deb
 Size: 35916
 Installed-Size: 480
 MD5sum: 9399f9c8340431a83b0f48b71e0614ed
@@ -194,7 +194,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cc.tweak.libobjcipc
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.2.0-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.2.0-beta_iphoneos-arm.deb
 Size: 35272
 Installed-Size: 448
 MD5sum: f3ef8fd6f4f000c0281a1263f7aad4c5
@@ -208,7 +208,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cc.tweak.libobjcipc
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.3.0-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.3.0-beta_iphoneos-arm.deb
 Size: 84214
 Installed-Size: 544
 MD5sum: 766593dd73e8be61853e92a8c4d8b487
@@ -222,7 +222,7 @@ Section: Tweaks
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cc.tweak.libobjcipc
 Architecture: iphoneos-arm
-Filename: debs//me.cgm616.volumebar9_0.3.1-beta_iphoneos-arm.deb
+Filename: .//debs/me.cgm616.volumebar9_0.3.1-beta_iphoneos-arm.deb
 Size: 84210
 Installed-Size: 544
 MD5sum: d4f7b08b83758d5b5a0a76ab15ebf286

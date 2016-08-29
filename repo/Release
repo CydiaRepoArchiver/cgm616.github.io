@@ -5,13 +5,13 @@ Version: 0.1
 Codename: cgm616repo
 Architectures: iphoneos-arm
 Components: main
-Description: A tube-filled repo with nothing quite finished yet.
-MD5SUM:
- MD5 (Packages) = 7331c5cdc18ed8618252379e6985d33c
- MD5 (Packages.bz2) = 0eb8166cd638f926d6f9fc945601c02e
+Description: My personal repo for some tweaks I've made and some other stuff.
+MD5Sum:
+ MD5 (Packages) = 55487132a915602829725573d7008278
+ MD5 (Packages.bz2) = 99697caffbf71982dcf1c2224737cc31
 SHA1:
- 9b222523c3cf6277b868c1668b2e66e97acac0c4  Packages
- 6d963421278e72bd08429d24f0eb7f9640e03321  Packages.bz2
+ cd3f03d367bd4132aae0fbfdc613328c6cf888da  Packages
+ 484d852c8807cecb67b5ced98d934bbaa2efe358  Packages.bz2
 SHA256:
- 59c58a748896535f2e809b13736106218fb653446995711e90d5a00cd7b3b855  Packages
- c6ff1c1d9ce0f82ed0ba37caf8780abb4e75ad6a853499842f37e954c39d7450  Packages.bz2
+ 6f6ffa3deb57a436fab4a9dae4ad3b6ccca166db1b219a0f2a69b7b9aa329f7a  Packages
+ 938f0d3c7c16ec08ba943f47e08e6bba3a2ed1d362b34720b03a7aa57e5a93a2  Packages.bz2

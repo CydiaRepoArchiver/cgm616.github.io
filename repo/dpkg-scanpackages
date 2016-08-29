@@ -12,7 +12,7 @@ my $dpkglibdir="/usr/lib/dpkg"; # This line modified by Makefile
 ($0) = $0 =~ m:.*/(.+):;
 
 push(@INC,$dpkglibdir);
-require 'dpkg-gettext.pl';
+require './dpkg-gettext.pl';
 textdomain("dpkg-dev");
 
 my %kmap= (optional         => 'suggests',
@@ -134,7 +134,7 @@ FILE:
 	    warn sprintf(_g("\`dpkg-deb -I %s control' exited with %d, skipping package"), $fn, $?)."\n";
 	    next;
 	}
-	
+
 	my %tv = ();
 	my $temp = $control;
 	while ($temp =~ s/^\n*(\S+):[ \t]*(.*(\n[ \t].*)*)\n//) {
@@ -146,11 +146,11 @@ FILE:
 	}
 	$temp =~ /^\n*$/
 	    or die sprintf(_g("Unprocessed text from %s control file; info:\n%s / %s\n"), $fn, $control, $temp);
-	
+
 	defined($tv{'Package'})
 	    or die sprintf(_g("No Package field in control file of %s"), $fn)."\n";
 	my $p= $tv{'Package'}; delete $tv{'Package'};
-	
+
 	if (defined($packages{$p}) and not $options{multiversion}) {
 	    foreach (@{$packages{$p}}) {
 		if (&vercmp($tv{'Version'}, $_->{'Version'})) {
@@ -170,23 +170,23 @@ FILE:
 	}
 	printf(STDERR _g(" ! Package %s (filename %s) has Filename field!\n"), $p, $fn) || die $!
 	    if defined($tv{'Filename'});
-	
+
 	$tv{'Filename'}= "$pathprefix$fn";
-	
+
 	open(C,"md5 <$fn |") || die "$fn $!";
 	chop($_=<C>); close(C); $? and die sprintf(_g("\`md5 < %s' exited with %d"), $fn, $?)."\n";
 	/^([0-9a-f]{32})\s*-?\s*$/ or die sprintf(_g("Strange text from \`md5 < %s': \`%s'"), $fn, $_)."\n";
 	$tv{'MD5sum'}= $1;
-	
+
 	my @stat= stat($fn) or die sprintf(_g("Couldn't stat %s: %s"), $fn, $!)."\n";
 	$stat[7] or die sprintf(_g("%s is empty"), $fn)."\n";
 	$tv{'Size'}= $stat[7];
-	
+
 	if (defined $tv{Revision} and length($tv{Revision})) {
 	    $tv{Version}.= '-'.$tv{Revision};
 	    delete $tv{Revision};
 	}
-	
+
 	push @{$packages{$p}}, {%tv};
     }
 close($find_h);
