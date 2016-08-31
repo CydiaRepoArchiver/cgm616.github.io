@@ -30,9 +30,23 @@ Package: me.cgm616.ondeviceconsole
 Version: 1.0.1
 Section: System
 Maintainer: cgm616 <cgm616+cydia@gmail.com>
-Depends: 
 Architecture: iphoneos-arm
 Filename: .//debs/me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
+Size: 7100
+Installed-Size: 132
+MD5sum: 46478e7ced1376795e10410566465ee2
+Description: Tool to view system log from the shell.
+Name: ondeviceconsole
+Author: Evan Swick and cgm616
+Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondeviceconsole
+
+Package: me.cgm616.ondeviceconsole
+Version: 1.0.1
+Section: System
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Depends: 
+Architecture: iphoneos-arm
+Filename: .//me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
 Size: 9498
 Installed-Size: 132
 MD5sum: 1014dcf6e037014d0d1e85b13c1f2c16
