@@ -40,21 +40,6 @@ Name: ondeviceconsole
 Author: Evan Swick and cgm616
 Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondeviceconsole
 
-Package: me.cgm616.ondeviceconsole
-Version: 1.0.1
-Section: System
-Maintainer: cgm616 <cgm616+cydia@gmail.com>
-Depends: 
-Architecture: iphoneos-arm
-Filename: .//me.cgm616.ondeviceconsole_1.0.1_iphoneos-arm.deb
-Size: 9498
-Installed-Size: 132
-MD5sum: 1014dcf6e037014d0d1e85b13c1f2c16
-Description: Tool to view system log from the shell.
-Name: ondeviceconsole
-Author: Evan Swick and cgm616
-Depiction: http://repo.graber-mitchell.com/depictions/?dep=me.cgm616.ondeviceconsole
-
 Package: me.cgm616.volumebar
 Version: 0.0.1beta
 Section: Tweaks
@@ -303,4 +288,19 @@ Description: Changes the ugly volume HUD to a nice bar.
 Name: VolumeBar9
 Author: cgm616 <cgm616+cydia@gmail.com>
 Depiction: https://cgm616.me/repo/depictions/me.cgm616.volumebar9_0.4.0-beta.html
+
+Package: me.cgm616.volumebar9
+Version: 0.4.1-beta
+Section: Tweaks
+Maintainer: cgm616 <cgm616+cydia@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, cc.tweak.libobjcipc
+Architecture: iphoneos-arm
+Filename: .//debs/me.cgm616.volumebar9_0.4.1-beta_iphoneos-arm.deb
+Size: 85892
+Installed-Size: 544
+MD5sum: d0e33da735d01c52157897a8e8835129
+Description: Changes the ugly volume HUD to a nice bar.
+Name: VolumeBar9
+Author: cgm616 <cgm616+cydia@gmail.com>
+Depiction: https://cgm616.me/repo/depictions/me.cgm616.volumebar9_0.4.1-beta.html
 
